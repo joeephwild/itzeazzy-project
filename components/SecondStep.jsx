@@ -66,7 +66,6 @@ function DrivingSp2({ formData, setFormData, navigation }) {
          className="bg-red-600 place-content-center text-white px-8 py-2 rounded-full flex items-center text-center"
        >
         <AiOutlineArrowLeft />
-        {' '}
         Back
        </button>
     </div>
